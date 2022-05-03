@@ -1,0 +1,21 @@
+C:\Users\Yusuf Kaygusuz\source\repos\Random Calculate\Random Calculate\bin\Debug\Random Calculate.exe.config
+C:\Users\Yusuf Kaygusuz\source\repos\Random Calculate\Random Calculate\bin\Debug\Random Calculate.exe
+C:\Users\Yusuf Kaygusuz\source\repos\Random Calculate\Random Calculate\bin\Debug\Random Calculate.pdb
+C:\Users\Yusuf Kaygusuz\source\repos\Random Calculate\Random Calculate\obj\Debug\Random Calculate.csprojAssemblyReference.cache
+C:\Users\Yusuf Kaygusuz\source\repos\Random Calculate\Random Calculate\obj\Debug\Random_Calculate.Form1.resources
+C:\Users\Yusuf Kaygusuz\source\repos\Random Calculate\Random Calculate\obj\Debug\Random_Calculate.Properties.Resources.resources
+C:\Users\Yusuf Kaygusuz\source\repos\Random Calculate\Random Calculate\obj\Debug\Random Calculate.csproj.GenerateResource.cache
+C:\Users\Yusuf Kaygusuz\source\repos\Random Calculate\Random Calculate\obj\Debug\Random Calculate.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Kaygusuz\source\repos\Random Calculate\Random Calculate\obj\Debug\Random Calculate.exe
+C:\Users\Yusuf Kaygusuz\source\repos\Random Calculate\Random Calculate\obj\Debug\Random Calculate.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Random Calculate\Random Calculate\bin\Debug\Random Calculate.exe.config
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Random Calculate\Random Calculate\bin\Debug\Random Calculate.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Random Calculate\Random Calculate\bin\Debug\Random Calculate.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Random Calculate\Random Calculate\obj\Debug\Random Calculate.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Random Calculate\Random Calculate\obj\Debug\Random Calculate.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Random Calculate\Random Calculate\obj\Debug\Random_Calculate.Form1.resources
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Random Calculate\Random Calculate\obj\Debug\Random_Calculate.Properties.Resources.resources
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Random Calculate\Random Calculate\obj\Debug\Random Calculate.csproj.GenerateResource.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Random Calculate\Random Calculate\obj\Debug\Random Calculate.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Random Calculate\Random Calculate\obj\Debug\Random Calculate.exe
+C:\Users\yusuf\OneDrive\Masaüstü\Yazılım Projeleri\C# Örnek Kodlar\Form Applications\Random Calculate\Random Calculate\obj\Debug\Random Calculate.pdb
